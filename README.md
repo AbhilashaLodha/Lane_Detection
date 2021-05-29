@@ -29,7 +29,7 @@ Once the model training gets completed, the trained model is saved in a json fil
 
 The command for training the model from scratch -
 
-python model_training.py
+**python model_training.py
 
 # Model Predictions
 The prediction file is a jupyter notebook file (lane_detection.ipynb) so that the results are clearly visible.
