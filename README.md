@@ -10,6 +10,7 @@ The steps involved in building up the project are -
 
 # Software Requirements
 Python 3.7.2 with a supporting IDE (Spyder, Jupyter Notebook etc.)
+
 Install requisite libraries using below command -
 pip install -r requirements.txt
 
