@@ -27,8 +27,14 @@ A fully connected deep learning model is built with Keras on top of TensorFlow f
 
 Once the model training gets completed, the trained model is saved in a json file (.json) along with its weights (.h5). Now this saved model can be used for doing the predictions on the new test data.
 
+The command for training the model from scratch -
+
+python model_training.py
+
 # Model Predictions
-When the model was tested upon new data, it was able to detect lanes precisely and beautifully as shown in figures below -
+The prediction file is a jupyter notebook file (lane_detection.ipynb) so that the results are clearly visible.
+
+When the model is tested upon new data, it is able to detect lanes precisely and beautifully as shown in figures below -
 
 Test image -
 ![1](https://user-images.githubusercontent.com/77407100/120079367-16506f00-c0d1-11eb-8b2c-b8449051173a.jpg)
