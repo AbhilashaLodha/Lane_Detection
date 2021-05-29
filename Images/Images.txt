@@ -1,0 +1,6 @@
+Dataset for Lane Detection should be downloaded from the below URL -
+https://s3.amazonaws.com/assignment-lane-marking-data/data.zip
+
+This consists of an Open source dataset namely "BDD100K Lane Marking Dataset" 
+
+After downloading, the images should be kept in "Images" folder and labels in "Labels" folder. 
